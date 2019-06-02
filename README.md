@@ -1,4 +1,4 @@
-# practise-repo
+# Design-Problems-Practise
 
 HOTEL ROOM RESERVATION
 
